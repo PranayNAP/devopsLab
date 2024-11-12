@@ -1,1 +1,2 @@
-1.create a new repository
+1.create a new repository.
+2.upload a new file.
